@@ -1,2 +1,3 @@
 # Discord-Start
-The start of this madness
+/hi
+Hello and welcome to the fun
